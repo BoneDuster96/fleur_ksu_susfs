@@ -1,4 +1,4 @@
-name: Build Sample YAML
+name: build-redmi-note11s-aosp
 
 on:
   workflow_call:
